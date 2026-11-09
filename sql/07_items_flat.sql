@@ -46,4 +46,4 @@ ORDER BY item_rows DESC;
 -- select_promotion: 8,595 rows, all missing (banner ads)
 -- view_item_list: 516 rows, 64 products, 8 missing names
 -- Open question: 810 products were bought but only 427 were viewed,
--- so product IDs may not line up across events. Checked next.git add sql/07_items_flat.sql
+-- so product IDs may not line up across events. Checked next.
